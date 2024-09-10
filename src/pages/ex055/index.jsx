@@ -21,8 +21,7 @@ export default function Ex5() {
 
 
         function Calc(){
-            let calculo=(nota1*nota2*nota3)/3
-
+            let calculo = ((Number(nota1) + Number(nota2) + Number(nota3)) / 3).toFixed(2);
                 if(calculo<6){
                     setResultado("false")
                     
