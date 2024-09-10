@@ -1,0 +1,53 @@
+main {
+    display: flex;
+    flex-direction: column;
+   }
+   
+  
+   
+    .txt {
+       background-color: white;
+   
+       width: 170vh;
+       height: 30vh;
+   
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin-left: 8vh;
+       border-radius: 2vh; 
+       text-align: center;
+       
+    }
+   
+   
+    .caixa {
+   
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+   
+   
+   
+   
+    .login {
+   
+       background-color: white;
+   
+       width: 50vh;
+       height: 20vh;
+   
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+      
+       margin-top: 5vh;
+       border-radius: 2vh; 
+   
+      
+   
+    }
+   
+    }
+   

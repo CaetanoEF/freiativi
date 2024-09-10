@@ -1,0 +1,57 @@
+body {
+    background-color: #f5f6fa;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+
+    align-items: center;
+    background-color: #6278f7;
+    height: 10vh;
+ 
+
+    a {
+        margin-right: 3vh;
+        text-decoration: none;
+        color: #f5f8fa;
+        font-size: 20px;
+    }
+
+    .frei{
+        height: 8vh;
+
+    }
+
+    .Sobre{
+        margin-right: 10vh;
+        
+    }
+
+    .Logo {
+        display: flex;
+        gap: 3vh;
+        color: white;
+        align-items: center;
+        margin-left: 5vh;
+    }
+}
+
+.cards {
+    padding-left: 10vh;
+    padding-top: 5vh;
+
+    h1 {
+        margin-top: 3vh;
+        margin-bottom: 7vh;
+    }
+    .cardz {
+        display: flex;
+        flex-direction: row;
+        gap: 8vh;
+       h6 {
+        font-size: 2vh;
+       }
+
+         }
+    }

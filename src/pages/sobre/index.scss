@@ -1,0 +1,29 @@
+.text {
+    
+
+   
+    h2 {
+        margin-top: 6vh;
+        margin-bottom: 7vh;
+        margin-left: 10vh;
+
+        
+    }
+    
+    .text2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 10vh;
+        text-align: center;
+        align-items: center;
+
+        gap: 4vh;
+        font-size: 4vh; 
+        width: 87%;
+        .frei{
+            height: 18vh;
+            width: 20vh;
+            
+        }
+    }
+}
